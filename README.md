@@ -7,3 +7,4 @@ http://localhost:8080/geoserver/LabFour/wms?service=WMS&version=1.1.0&request=Ge
 WFS url 
 http://localhost:8080/geoserver/LabFour/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=LabFour:OR_counties&maxFeatures=50&outputFormat=application%2Fjson
 
+Mapbox Basemap was inspired by the changing colors of the trees around us.
