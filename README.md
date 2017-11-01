@@ -18,6 +18,9 @@ Mapbox basemap [I created][] was inspired by the changing colors of the trees ar
 
 ![](https://github.com/hannahfriedrich/autumn/blob/master/img/Fall.jpg)
 
+Contact to Mapbox for submission to Design Gallery
+![](https://github.com/hannahfriedrich/autumn/blob/master/img/ContactMapbox.png)
+
 
 [here]: https://github.com/hannahfriedrich/autumn/blob/master/assets/OR_counties.geojson
 [I created]: https://hannahfriedrich.github.io/autumn/
