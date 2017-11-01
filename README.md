@@ -14,9 +14,10 @@ WFS url: http://localhost:8080/geoserver/LabFour/ows?service=WFS&version=1.0.0&r
 
 ## Mapbox Basemap
 
-Mapbox basemap I created was inspired by the changing colors of the trees around us here in Corvallis. I wanted to use a warm color palette to render the various colors of leaves. The detailed, curly Gothic fonts chosen were to be evoke a Halloween aesthetic. My favorite part of the map is the various shades of green and yellow present in the topography.
+Mapbox basemap [I created][] was inspired by the changing colors of the trees around us here in Corvallis. I wanted to use a warm color palette to render the various colors of leaves. The detailed, curly Gothic fonts chosen were to be evoke a Halloween aesthetic. My favorite part of the map is the various shades of green and yellow present in the topography.
 
 ![](https://github.com/hannahfriedrich/autumn/blob/master/img/Fall.jpg)
 
 
 [here]: https://github.com/hannahfriedrich/autumn/blob/master/assets/OR_counties.geojson
+[I created]: https://hannahfriedrich.github.io/autumn/
